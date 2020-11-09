@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="230">
 
 <br/><br/>
-<b>I'm an energetic, enthusiastic, and self-learner with always passionate about learning new technologies.</b>
+<b>Highly energetic software developer with technical leadership qualities, passionate towards taking up roles and responsibilities and is flexible in adopting the changing environment.</b>
 <br/><br/>
 <br/>
 
@@ -17,8 +17,8 @@
 
 **Programing Language**
 
-| <img alt="Javascript" width="40px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png"/> | <img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/> | <img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/> | <img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/> |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| <img alt="Javascript" width="40px" src="https://img.icons8.com/color/480/000000/javascript-logo-1.png"/> | <img alt="Java" width="40px" src="https://img.icons8.com/color/480/000000/java-coffee-cup-logo.png"/> | <img alt="Python3" width="40px" src="https://img.icons8.com/color/480/000000/python.png"/> | <img alt="C++" width="40px" src="https://img.icons8.com/color/480/000000/c-plus-plus-logo.png"/>
+|--|--|--|--|
 
 
 <br/>
