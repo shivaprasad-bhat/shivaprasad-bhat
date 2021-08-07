@@ -1,4 +1,4 @@
-<h1>Hi, I am <a href="https://www.shivaprasad.tech/" target="_blank">Shivaprasad Bhat</a> 🙋🏽‍♂️</h1>
+<h1>Hi, I am <a href="https://shivaprasad.netlify.app/" target="_blank">Shivaprasad Bhat</a> 🙋🏽‍♂️</h1>
 
 <img align='right' src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="230">
 
